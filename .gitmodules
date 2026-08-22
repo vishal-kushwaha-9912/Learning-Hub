@@ -1,0 +1,6 @@
+[submodule "Python/Python-Engineering-Lab"]
+	path = Python/Python-Engineering-Lab
+	url = https://github.com/vishal-kushwaha-9912/Python-Engineering-Lab.git
+[submodule "SQL/SQL-Engineering-Lab"]
+	path = SQL/SQL-Engineering-Lab
+	url = https://github.com/vishal-kushwaha-9912/SQL-Engineering-Lab.git
