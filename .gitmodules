@@ -4,3 +4,9 @@
 [submodule "SQL/SQL-Engineering-Lab"]
 	path = SQL/SQL-Engineering-Lab
 	url = https://github.com/vishal-kushwaha-9912/SQL-Engineering-Lab.git
+[submodule "C/C-language-"]
+	path = C/C-language-
+	url = https://github.com/vishal-kushwaha-9912/C-language-.git
+[submodule "C+/C-language-"]
+	path = C+/C-language-
+	url = https://github.com/vishal-kushwaha-9912/C-language-.git
